@@ -1,0 +1,3 @@
+!.gitignore
+!subdir/
+!scratch-simulator.cc
