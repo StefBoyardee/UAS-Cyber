@@ -9,5 +9,5 @@ System Requirements Document Version 3
 https://docs.google.com/document/d/1Rhw5JlrxJiZ26cwIBoR9wcpp9uDrS2PP/edit?usp=sharing&ouid=100557660563489067386&rtpof=true&sd=true
 
 
-System Test Plan Version 1
-https://docs.google.com/document/d/12yb8SxV_2njoVOO-ysZ-od7OwYUkuRP2/edit?usp=sharing&ouid=100557660563489067386&rtpof=true&sd=true
+System Test Plan Version 2
+https://docs.google.com/document/d/18jVEzgEIra-SIQTZ30gE21ApV2NTOILd/edit?usp=sharing&ouid=100557660563489067386&rtpof=true&sd=true
