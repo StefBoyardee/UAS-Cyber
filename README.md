@@ -11,3 +11,6 @@ https://docs.google.com/document/d/1Rhw5JlrxJiZ26cwIBoR9wcpp9uDrS2PP/edit?usp=sh
 
 System Test Plan Version 2
 https://docs.google.com/document/d/18jVEzgEIra-SIQTZ30gE21ApV2NTOILd/edit?usp=sharing&ouid=100557660563489067386&rtpof=true&sd=true
+
+Engineering workbooks
+https://drive.google.com/drive/folders/1zJE54w7Voy4vug3zMIQ9u0UnxhQpXJOC?usp=sharing
