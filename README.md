@@ -1,5 +1,7 @@
 # UAS-Cyber
-Product Vision Statement: This semester, group 7 will learn how to use NS-3 and run drone and network simulations on it for the end goal of next semester researching cyber attacks on drone swarms and various network and drone methods.
+This semester, our team plans on using the research and development from last year
+to design and deploy cyber attacks on an NS-3 based drone simulation and then
+mitigate the effects of those attacks through a systematic review and redesign
 
 SOSPUAS Code Github
 https://github.com/AkbasLab/SOSPUAS
