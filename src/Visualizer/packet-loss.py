@@ -27,6 +27,10 @@ csv_file.close()
 csv_header = raw_lines[0]
 lines = []
 devices = []
+#the source node isnt listed in the same format as the other devices
+#we have to append it manually
+devices.append(csv_header.split(",")[5])
+
 for line in raw_lines[1:]:
     #Parse raw lines and stick into lines
     parsed = parse_csv_line(line)
