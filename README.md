@@ -6,17 +6,17 @@ mitigate the effects of those attacks through a systematic review and redesign
 SOSPUAS Code Github
 https://github.com/AkbasLab/SOSPUAS
 
-System Design Document Verison 3
-https://docs.google.com/document/d/13oFTnlDbCEJPsVPo9xCG0URFGozIfetz/edit?usp=sharing&ouid=100557660563489067386&rtpof=true&sd=true
+System Design Document Verison 1
+https://docs.google.com/document/d/13tMd1PrLR-bijdNIPpL1YTq-vH4o3RBS/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
 
-System Requirements Document Version 3
-https://docs.google.com/document/d/1Rhw5JlrxJiZ26cwIBoR9wcpp9uDrS2PP/edit?usp=sharing&ouid=100557660563489067386&rtpof=true&sd=true
+System Requirements Document Version 1
+https://docs.google.com/document/d/1WXr1MF5AaBJeKMpYXylTwjHpRkX9xplr/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
 
-System Test Plan Version 2
-https://docs.google.com/document/d/18jVEzgEIra-SIQTZ30gE21ApV2NTOILd/edit?usp=sharing&ouid=100557660563489067386&rtpof=true&sd=true
+System Test Plan Version 1
+https://docs.google.com/document/d/1WXr1MF5AaBJeKMpYXylTwjHpRkX9xplr/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
 
 Engineering workbooks
-https://drive.google.com/drive/folders/1zJE54w7Voy4vug3zMIQ9u0UnxhQpXJOC?usp=sharing
+https://drive.google.com/drive/folders/1NZe2UTubVYMHzztr0yVH3ylTQ5Lwnytl?usp=share_link
 
 Presentation #5 (3/9/23):
-https://docs.google.com/presentation/d/1lIZQGuWm5MsvPYuQtwdzVS6PFvuYJaD6/edit?usp=share_link&ouid=104209263590741490902&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1lIZQGuWm5MsvPYuQtwdzVS6PFvuYJaD6/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
