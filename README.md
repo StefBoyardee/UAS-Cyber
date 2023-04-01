@@ -20,3 +20,6 @@ https://drive.google.com/drive/folders/1NZe2UTubVYMHzztr0yVH3ylTQ5Lwnytl?usp=sha
 
 Presentation #5 (3/9/23):
 https://docs.google.com/presentation/d/1lIZQGuWm5MsvPYuQtwdzVS6PFvuYJaD6/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
+
+Scrum Implementation:
+https://trello.com/b/ZeEDtKSh/spring-semester
