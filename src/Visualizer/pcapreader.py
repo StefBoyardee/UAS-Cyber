@@ -10,8 +10,10 @@ import os
 # program arguments
 parser = argparse.ArgumentParser(description="Graphs average packet times per second for each network device.")
 parser.add_argument("--file", default="network/UAV-0-0.pcap", help="A pcap file to read")
+parser.add_argument("--out", default="output", help="Output directory")
 args = parser.parse_args()
 file_name = args.file
+out_name = args.out + "/"
 
 cap = rdpcap(file_name)
 #first, let's iterate over the packets and grab all used IPs
@@ -40,6 +42,8 @@ x.extend(range(1, math.ceil(last.time)))
 for ip in ips:
     fig,ax = plt.subplots()
     ax.set_title(ip)
+    plt.xlabel("Time (s)")
+    plt.ylabel("# of Successful outgoing packets")
     for ip2 in ips: #this one keeps track of dest
         if (ip != ip2): #the source to itself will be a flatline so there's no reason to include it
             list = []
@@ -61,7 +65,7 @@ for ip in ips:
                 else:
                     y.append(0)
             ax.plot(x,y,label=ip2)
-    ax.legend();
-    os.makedirs(os.path.dirname("output/"), exist_ok=True)
-    plt.savefig( "output/" + ip + "-graph.png", dpi=500)
+    ax.legend(title="Destination:");
+    os.makedirs(os.path.dirname(out_name), exist_ok=True)
+    plt.savefig( out_name + ip + "-graph.png", dpi=500)
 
