@@ -9,8 +9,14 @@ https://github.com/AkbasLab/SOSPUAS
 System Design Document Verison 1
 https://docs.google.com/document/d/13tMd1PrLR-bijdNIPpL1YTq-vH4o3RBS/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
 
+System Design Document Final:
+https://docs.google.com/document/d/13tMd1PrLR-bijdNIPpL1YTq-vH4o3RBS/edit?usp=sharing&ouid=104209263590741490902&rtpof=true&sd=true
+
 System Requirements Document Version 1
 https://docs.google.com/document/d/1WXr1MF5AaBJeKMpYXylTwjHpRkX9xplr/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
+
+System Requirements Document Final:
+https://docs.google.com/document/d/1WXr1MF5AaBJeKMpYXylTwjHpRkX9xplr/edit?usp=sharing&ouid=104209263590741490902&rtpof=true&sd=true
 
 System Test Plan Version 1
 https://docs.google.com/document/d/1WFu7DdtlA8dyp4Qbx2HUZNEPOzEaGT6q/edit?usp=share_link&ouid=100557660563489067386&rtpof=true&sd=true
